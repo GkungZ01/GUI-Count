@@ -1,1 +1,1 @@
-#GUI-Count
+# GUI-Count - โปรแกรมนับเลข
